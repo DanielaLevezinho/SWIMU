@@ -1,0 +1,3 @@
+[submodule "03_Implementacao/Swimu-Sensor"]
+	path = 03_Implementacao/Swimu-Sensor
+	url = https://github.com/misollae/SwimuWeb.git
