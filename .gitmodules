@@ -1,3 +1,6 @@
 [submodule "03_Implementacao/Swimu-Sensor"]
 	path = 03_Implementacao/Swimu-Sensor
 	url = https://github.com/misollae/Swimu-Sensor.git
+[submodule "03_Implementacao/SwimuMobile"]
+	path = 03_Implementacao/SwimuMobile
+	url = https://github.com/misollae/SwimuMobile.git
